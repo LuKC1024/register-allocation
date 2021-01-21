@@ -1,0 +1,4 @@
+((library
+ (name register_allocation)
+ (public_name register_allocation)
+ (libraries ocaml)))
